@@ -1,0 +1,22 @@
+(version)
+6
+(box)
+0 8639 0 6479 0 89
+(fields)
+theta float32 default_compression(zip) default_layout() default_value(0) min(0) max(0) 
+(bits)
+V0010101010101012012012012012012012
+(bitsperblock)
+21
+(blocksperfile)
+1
+(interleave block)
+0
+(time)
+0 10365 time%0000d/
+(filename_template)
+./llc2160_theta/%02x/%04x.bin
+(missing_blocks)
+0
+(arco)
+8388608
