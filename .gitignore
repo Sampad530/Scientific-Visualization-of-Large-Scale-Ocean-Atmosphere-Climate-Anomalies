@@ -5,3 +5,16 @@ iod_timeseries
 .venv
 __pycache__
 IOD-analysis/visus_can_be_deleted/
+*.png
+*.idx
+*.gif
+*.pkl
+/vector_fields-master
+*.vtp
+/vtkp
+py_helmholtz/
+psi_phi.py
+pseudoGUI.ipynb
+helmholtz.py.bak
+helmholtz.py
+data.json
